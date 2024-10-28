@@ -3,6 +3,7 @@
 1.
 
 Se realiza scraping a Airbnb para extraer la información de 100 propiedades de Barcelona. Con el archivo: [scraping_airbnb.py](https://github.com/nestorcal/PruebaDEJ/blob/main/scraping_airbnb.py)
+
 Los datos obtenidos son de :
 ● Titulo de propiedad, Subtitulos, precio por noche, calificacion y numero de reseñas, y categoria de anfitrion
 
