@@ -6,7 +6,7 @@ Se realiza scraping a Airbnb para extraer la información de 100 propiedades de 
 Los datos obtenidos son de :
 ● Titulo de propiedad, Subtitulos, precio por noche, calificacion y numero de reseñas, y categoria de anfitrion
 
-Se almaceno los resultados en un archivo CSV: listado_airbnb.csv
+Se almaceno los resultados en un archivo CSV: [listado_airbnb.csv](https://github.com/nestorcal/PruebaDEJ/blob/main/limpieza.py)
 
 No se encontraron datos de direccion en texto(La ubicacion se muestra en GoogleMaps).
 
@@ -14,7 +14,7 @@ No se encontraron datos de direccion en texto(La ubicacion se muestra en GoogleM
 
 Se realizo los procesos de ETL y EDA con los archivos de propiedades (Properties) y el de reservas.
 
-El archivo con los procesos es: ETL_y_EDA.ipynb
+El archivo con los procesos es: [ETL_y_EDA.ipynb](https://github.com/nestorcal/PruebaDEJ/blob/main/ETL_y_EDA.ipynb)
 
 Se almaceno los resultados en un archivo CSV: merged_properties_bookings.csv
 
